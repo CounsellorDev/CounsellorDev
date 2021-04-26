@@ -13,35 +13,27 @@ NodeJs | Flutter | Python
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][hashnode]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
 <br>
-<hr />
+<hr/>
 
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
- 
-* Primary coding language: JavaScript.
-* I’m currently working on my portfolio.
-* I am currently learning Flutter
-* I have contributed to Open source projects.
-* Competitive Programmer 
-* Ask me about anything, I'll be happy to help.
-* 😄 Pronouns: He/Him
-
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="35%">
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://CounsellorDev.GitHub.io).
 
 </td>
 
-<td valign="top" width="45%">
+<td valign="top" width="40%">
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/cousellorDev).
 
 </td>
+<td valign="top" width="35%">
 
-![Visitor Count](https://profile-counter.glitch.me/{CounsellorDev}/count.svg)
+### The Developer Lifestyle 🌱
+Check out my posts/videos on [Facebook](https://www.facebook.com/CounsellorStephen).
+
+</td>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <hr>
